@@ -66,7 +66,8 @@
                             </div>
 
                             <div class="d-grid">
-                                <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+                                <button type="submit" class="btn btn-lg btn-primary">Submit</button
+                             <button type="submit" class="btn btn-lg btn-primary">Login</button>
                             </div>
                         </div>
                     </form>
